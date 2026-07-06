@@ -1,4 +1,4 @@
-# 
+# Personalizado ThreatEye instalador. Descarga e instala con modelos preconfigurados y manejo de errores — rápido, seguro y fácil de usar.
 
 
 
